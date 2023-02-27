@@ -1,0 +1,36 @@
+.app-container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.about-me,
+.skills,
+.projects {
+  margin-bottom: 50px;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  margin-bottom: 10px;
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+.project h4 {
+  margin-bottom: 10px;
+}
+
+.project a {
+  color: #0077cc;
+}
